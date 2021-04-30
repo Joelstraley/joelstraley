@@ -16,7 +16,7 @@ Previously, I worked for several years at Uber as an Operation Specialist. I als
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/premierepro/premierepro-original.svg" alt="Premiere logo" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/express/express-original-wordmark.svg" alt="Express logo" width="50" height="50" />
 - - -  
-<h3 align="left">Connect with me:</h3>  
+<h4 align="left">🤝 &ensp; Connect with me:</h4>  
 <p align="left">
 <a href="https://twitter.com/joelstraley" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a> <a href="https://www.linkedin.com/in/joel-straley-559aab97/" target="blank">
 <img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>  
