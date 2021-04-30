@@ -6,7 +6,6 @@ I recently worked in Operations and Logistics. During the COVID-19 pandemic I wo
 
 Previously, I worked for several years at Uber as an Operation Specialist. I also do improv and sketch comedy in NYC. 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/joelstraley?style=social)
 - - -
 🧰 Toolbox 
 
@@ -19,6 +18,7 @@ Previously, I worked for several years at Uber as an Operation Specialist. I als
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/express/express-original-wordmark.svg" alt="Express logo" width="50" height="50" />
 
 - - - 
+![Twitter Follow](https://img.shields.io/twitter/follow/joelstraley?style=social)
 ![alt text](https://github.com/Joelstraley/joelstraley/blob/main/assets/joel-with-a-computer.jpg?raw=true)
 
 <!--
