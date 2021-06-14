@@ -4,7 +4,7 @@ I'm a Full Stack (MERN) Web Developer who graduated from the Columbia Engineerin
 
 I recently worked in Operations and Logistics. During the COVID-19 pandemic I worked with The Migrant Kitchen to build a dynamic logistic strategy to deliver 1,000 meals a day, six days a week to NYC residents in all 5 boroughs.   
 
-Previously, I worked for several years at Uber as an Operation Specialist. I also do improv and sketch comedy in NYC. 
+Previously, I worked at Uber as an Operation Specialist. I also do improv and sketch comedy in NYC. 
 
 - - -
 <h3>🧰 &ensp;Toolbox</h3>
