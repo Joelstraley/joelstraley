@@ -1,6 +1,8 @@
 ### Hi, I'm Joel.
 
-I am a Full Stack Web Developer who graduated from the Columbia Engineering Coding Bootcamp. I recently worked as an Associate Front-end engineer for Refersion, an enterprise-level (14,000 users) Affiliate Marketing Management application. 
+I am a Full Stack Web Developer who graduated from the Columbia Engineering Coding Bootcamp. 
+
+I recently worked as an Associate Front-end engineer for Refersion, an enterprise-level (14,000 users) Affiliate Marketing Management application. 
 
 I was integral part of creating an in-house reusable component Library using React Storybook. These components were utilized in a redesign of the entire application to showcase more robust and responsive data-tables and dashboards.
 I gained experience using the frameworks React and Laravel with Javascript and PHP to write, update and deploy code to production.
