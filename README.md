@@ -10,7 +10,7 @@ I worked in a Agile (Scrum) environment with a team that consistently exceeded s
 
 Previously, I worked as Operations Specialist for Uber where my work was vital in helping to increase the availability of Wheelchair accessible commercial vehicles in NYC. During 2020 I was a Logistics Manager for The Migrant Kitchen and built a dynamic logistical strategy to deliver 1,000 meals a day, six days a week to NYC residents across all 5 burroughs.
 
-Outside of work, I regularly peform improv and sketch comedy in NYC. 
+Outside of work, I perform improv and shoot short films. 
 - - -
 <h3>🧰 &ensp;Toolbox</h3>
 
