@@ -1,11 +1,14 @@
-### Hi, I'm Joel
+### Hi, I'm Joel.
 
-I'm a Full Stack (MERN) Web Developer who graduated from the Columbia Engineering Coding Bootcamp. 
+I am a Full Stack Web Developer who graduated from the Columbia Engineering Coding Bootcamp. I recently worked as an Associate Front-end engineer for Refersion, an enterprise-level (14,000 users) Affiliate Marketing Management application. 
 
-I recently worked in Operations and Logistics. During the COVID-19 pandemic I worked with The Migrant Kitchen to build a dynamic logistic strategy to deliver 1,000 meals a day, six days a week to NYC residents in all 5 boroughs.   
+I was integral part of creating an in-house reusable component Library using React Storybook. These components were utilized in a redesign of the entire application to showcase more robust and responsive data-tables and dashboards.
+I gained experience using the frameworks React and Laravel with Javascript and PHP to write, update and deploy code to production.
+I worked in a Agile (Scrum) environment with a team that consistently exceeded sprint goals.
 
-Previously, I worked at Uber as an Operation Specialist. I also do improv and sketch comedy in NYC. 
+Previously, I worked as Operations Specialist for Uber where my work was vital in helping to increase the availability of Wheelchair accessible commercial vehicles in NYC. During 2020 I was a Logistics Manager for The Migrant Kitchen and built a dynamic logistical strategy to deliver 1,000 meals a day, six days a week to NYC residents across all 5 burroughs.
 
+Outside of work, I regularly peform improv and sketch comedy in NYC. 
 - - -
 <h3>🧰 &ensp;Toolbox</h3>
 
