@@ -29,7 +29,6 @@ Outside of work, I perform improv and shoot short films.
  <a href="https://twitter.com/joelstraley" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a> 
 <a href="facebook.com/joelStraley" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>  
 <a href="https://www.instagram.com/joelstraleyunofficial/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>  
-<a href="https://github.com/Joelstraley/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original-wordmark.svg" alt="kmhmubin" height="30" width="30" />Click to Enter Infinite Loop</a>  
 </p> 
 
 - - -
