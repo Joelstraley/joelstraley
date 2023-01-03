@@ -1,4 +1,4 @@
-### Hi, I'm Joel.
+### Hey, I'm Joel.
 
 I am a Full Stack Web Developer who graduated from the Columbia Engineering Coding Bootcamp. 
 
