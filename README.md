@@ -6,7 +6,7 @@ My previous role was at Refersion, an enterprise-level (60k+ users) Affiliate Ma
 
 Before learning to code, my experience has been in operational logistics in fast-paced environments. I worked as an Operations Specialist for Uber for 6+ years and spent the 2020 pandemic working with The Migrant Kitchen to build a dynamic logistics strategy to deliver 1,000 meals a day, six days a week to NYC residents across all 5 boroughs.
 
-Outside of work, I’ve been involved in Improv and Sketch comedy for 10+ years in NYC and enjoy shooting short films.
+Outside of coding, I’ve been involved in Improv and Sketch comedy for 10+ years in NYC and enjoy shooting short films.
 
 - - -
 <h3>🧰 &ensp;Toolbox</h3>
