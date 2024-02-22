@@ -1,6 +1,6 @@
 ### Hey, I'm Joel.
 
-I'm a Fullstack Web Developer with 1.5 years of professional experience using React and Laravel with Javascript and PHP to write, update and deploy code to production.
+I'm a Fullstack Web Developer with 2+ years of professional experience using React and Laravel with Javascript and PHP to write, update and deploy code to production.
 
 My previous role was at Refersion, an enterprise-level (60k+ users) Affiliate Marketing Management app, developing and maintaining a reusable and responsive component library to create scalable single page applications. 
 
